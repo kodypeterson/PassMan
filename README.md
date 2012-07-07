@@ -3,6 +3,11 @@ PassMan
 
 A secure web based password manager using PHP &amp; MySQL
 
+## Prerequisites
+1. PHP
+2. MySQL
+3. PHP MyCrypt Extension
+
 ## Installation instructions
 1. upload files to web directory.
 2. modify /includes/classes/config.php to represent correct MySQL access information.
